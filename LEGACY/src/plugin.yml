@@ -1,0 +1,7 @@
+name: CustomGUI
+author: snadol
+version: 4
+main: me.snadol.CustomGUI.Main
+softdepend: [PlaceholderAPI]
+commands:
+  customgui:
